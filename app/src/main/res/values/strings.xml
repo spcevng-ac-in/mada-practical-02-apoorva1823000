@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical_02</string>
+    <string name="desc">This is the second practical regarding interactive UI.</string>
+    <string name="desc2">Click on the buttons to view Toast messages</string>
+    <string name="change1">Hello</string>
+    <string name="change2">World!</string>
+</resources>
